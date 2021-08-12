@@ -57,6 +57,11 @@
 <p align="center">
 <img src="https://github.com/felipebacelo/BR-ChampionshipFans/blob/main/IMAGES/PLOT-3.png"/></p>
 
+## Referências ##
+  
+* [Curso-R](https://curso-r.com/)
+* [R para Data Science](https://curso-r.com/)
+
 ## Licenças ##
 
 _MIT License_
